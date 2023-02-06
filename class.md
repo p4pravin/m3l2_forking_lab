@@ -1,1 +1,1 @@
-#Editing to check forking lab
+Updated the class.md file
